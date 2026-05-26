@@ -1,0 +1,63 @@
+html{
+    background-color: rgb(49, 10, 10);
+}
+
+h1{
+    color:blanchedalmond;
+    font-family: 'Lavishly Yours', cursive;
+    text-align: center;
+    font-weight: 1;
+    font-size: 70px;
+    letter-spacing: 4px;
+}
+
+.header1{
+    color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-weight: 300px;
+    font-size: 30px;
+    letter-spacing: 15px;
+}   
+
+.summary{
+    color: rgb(196, 156, 95);
+    font-family: 'Tangerine', cursive;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 40px;
+    letter-spacing: 5px;
+}
+
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+    text-align:left;
+    font-weight: 300px;
+    font-size: 22px;
+}
+
+li{
+    color: rgb(215, 150, 53);
+    font-size: 20px;
+};
+ 
+.footer{
+    align-items: center;
+    font-size: 18px;
+}
+p{
+    color: rgb(215, 150, 53);
+    text-align: left;
+    font-size: 16px;
+}
+a[href]{
+    color: rgb(255, 0, 0);
+    text-decoration: underline;
+    margin: 0 10px;
+}
+
